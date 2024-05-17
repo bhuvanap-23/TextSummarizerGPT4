@@ -1,3 +1,8 @@
-# TextSummarizerGPT4
+# React + Vite
 
-Text summarizer application extracts the text from the article to generate its summary. It uses GPT-4 API to summarize the article by getting the URL of the article and displaying the corresponding summary. This application uses HTML,Javascript, React, Tailwind CSS, Redux to provide enhanced UI experience for the users to use the application at ease.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
